@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君と癖",
+  "base_artist": "yutori",
+  "createdAt": "2026-02-07T20:03:51.284930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君と癖",
+      "artist": "YUTORI",
+      "has_synced": false,
+      "path": "select/01_君と癖_YUTORI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と癖",
+      "artist": "yutori",
+      "has_synced": false,
+      "path": "select/pl_01_君と癖_yutori.txt"
+    }
+  ]
+}
